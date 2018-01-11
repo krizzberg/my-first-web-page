@@ -1,24 +1,13 @@
-h1 {
-  color: red;
-  text-align: center;
-
-}
-
-h2 {
+p.intro {
+  width: 50%;
   font-style: italic;
-  text-align: center;
 }
 
-p {
-  font-family: sans-serif;
-  font-weight: 700;
+p.author {
+  width: 75%;
+  font-style: italic;
+  font weight: bold;
 }
-
-ul {
-  font-size: 20px;
-  line-height: 30px;
-}
-img {
- width: 100px;
- height: 200px;
+p.important {
+  color: red;
 }
